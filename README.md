@@ -16,7 +16,8 @@ In this project, I will use supervised machine learning to train an algorithm th
 
 ERSP in M1s:
 ![ERSP image](/ERSP.png)
-During unilateral hand movement, **contralateral M1 (e.g., Left M1 during right hand movement)** has (1) stronger delta-theta power increase at the movement onset, and (2) stronger beta rebound 500 ms after movement onset compared to ipsilateral M1. 
+
+*During unilateral hand movement, **contralateral M1 (e.g., Left M1 during right hand movement)** has (1) stronger delta-theta power increase at the movement onset, and (2) stronger beta rebound 500 ms after movement onset compared to ipsilateral M1.* 
 
 ## **Project Data**
 MEG data were collected from 29 young healthy participants during unilateral finger movements (each particiapnts have two sessions of data: a total of 58 datasets (29/hand); ~115 trials/dataset). The MEG data have been time-locked to movement onset recorded through electromyography (EMG), co-registered with participants' structural MRI, and source-localized for ROIs localization. Virtual channels at the source-level were computed for both left and right motor cotices. Time-frequency analysis was done in Matlab for ERSP.
