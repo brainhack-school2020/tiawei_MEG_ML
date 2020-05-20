@@ -22,7 +22,7 @@ The MEG data have been time-locked to movement onset recorded through electromyo
 
 ERSP in M1s:
 
-<a href="url"><img src="https://github.com/brainhack-school2020/tiawei_MEG_ML/blob/master/ERSP.png" align="left" height="50%" width="50%" ></a>
+<a href="url"><img src="https://github.com/brainhack-school2020/tiawei_MEG_ML/blob/master/ERSP.png" height="50%" width="50%" ></a>
 
 *During unilateral hand movement, **contralateral M1 (e.g., Left M1 during right hand movement)** has (1) stronger delta-theta power increase at the movement onset, and (2) stronger beta rebound 500 ms after movement onset compared to ipsilateral M1.* 
 
