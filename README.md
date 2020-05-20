@@ -12,7 +12,7 @@
 ## **Background**
 I am currently a PhD1 student in Psychology at University of Toronto. My research interests includes multiple lateralized and contra-lateralized functions, such as language, motor control, and spatial attention, and how the functional networks are altered after unilateral strokes. Especially, my research has been focused on healthy and pathological communications between the two hemispheres. 
 
-![left and right hemispheres](/AM I RIGHT-BRAINED OR LEFT-BRAINED_2.gif)
+![left and right hemispheres](/AM I RIGHT-BRAINED OR LEFT-BRAINED_ 2.gif)
 
 In this project, I will use supervised machine learning to train an algorithm that can classify left vs right hand movement based on event-related spectral perturbation (ERSP) signals in the two motor cortices (M1s). This might not be a super exciting research objective but can be a great parctice for me to get started with machine learning :).
 
