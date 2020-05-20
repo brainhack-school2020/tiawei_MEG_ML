@@ -2,6 +2,11 @@
 
 ![Machine learning](/NusZ.gif)
 
+## Goals for BHS project
+- Learn machine learning
+- Explore/access open data
+- Practice visualization in python
+
 ## **Background**
 Hi! I am Tiana Wei, currently a PhD1 student in Psychology at University of Toronto. My research interests includes multiple lateralized and contra-lateralized functions, such as language, motor control, and spatial attention, and how the functional networks are altered after unilateral strokes. Especially, my research has been focused on healthy and pathological communications between the two hemispheres. 
 
