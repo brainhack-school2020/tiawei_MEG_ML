@@ -1,6 +1,6 @@
 # Machine learning for personalized post-stroke neuromodulation (or ML for finger movement source-localized MEG data)
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FNusZ&psig=AOvVaw2UXnLYHYK8AzydjXQNiJ-5&ust=1590064796547000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDXlJC7wukCFQAAAAAdAAAAABAI
+<iframe src="https://gifer.com/embed/NusZ" width=480 height=270.222 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 ## Background
 Hi! My name is Tiana Wei. I am a PhD1 student in Psychology at University of Toronto. My research interests includes multiple lateralized and contra-lateralized functions, such as language, motor control, and spatial attention, and how the functional networks are altered after unilateral strokes. Especially, my research has been focused on healthy and pathological communications between the two hemispheres. 
