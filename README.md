@@ -17,7 +17,7 @@ I am still exploring possible open data for post-stroke NIBS studies (for aphasi
 
 ## **Project Data**
 - Option 1: Access open data from NIBS post-stroke patient studies.
-- Option 2: Use my exisitng MEG data from 29 young healthy participants during unilateral finger movements (each particiapnts have two sessions of data: a total of 58 datasets for each hand movement senario). The MEG data have been co-registered with participants' structural MRI and source-localized for ROIs localization. Virtual channels at the source-level were computed for both left and right motor cotices. Phase-based and amplitude-based connectivity measures where derived between motor corticies separated by the moving hand (left hand moving vs right hand moving).
+- Option 2: Use my exisitng MEG data from 29 young healthy participants during unilateral finger movements (each particiapnts have two sessions of data: a total of 58 datasets for each hand movement senario). The MEG data have been co-registered with participants' structural MRI and source-localized for ROIs localization. Virtual channels at the source-level were computed for both left and right motor cotices. (Using Matlab,) Phase-based and amplitude-based connectivity were measured between motor corticies separated by the moving hand (left hand moving vs right hand moving).
 
 ## **Objectives**
 - Option 1: Train an algorithm based on stroke-patients' background features (e.g., gender, age, stroke duration, storke size/site, etc...) and their NIBS intervention results. Then, use the algorithm to predict the optimal NIBS parameters for specific patients given their background information.
