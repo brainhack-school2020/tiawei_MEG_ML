@@ -16,7 +16,7 @@ In this project, I will use supervised machine learning to train an algorithm th
 ## **Project Data**
 MEG data were collected from 29 young healthy participants during unilateral finger movements (each particiapnts have two sessions of data: a total of 58 datasets (29/hand); ~115 trials/dataset). 
 
-<a href="url"><img src="https://github.com/brainhack-school2020/tiawei_MEG_ML/blob/master/experiment.png" height="50%" width="50%" ></a>
+<a href="url"><img src="https://github.com/brainhack-school2020/tiawei_MEG_ML/blob/master/experiment.png" height="40%" width="40%" ></a>
 
 The MEG data have been time-locked to movement onset recorded through electromyography (EMG), co-registered with participants' structural MRI, and source-localized for ROIs localization. Virtual channels at the source-level were computed for both left and right motor cotices. Time-frequency analysis (ERSP) and connectivity analysis were done in Matlab.
 
